@@ -1,0 +1,13 @@
+.section {
+  padding: var(--space-xl) var(--space-md);
+  background: var(--bg);
+}
+
+.section.alt {
+  background: var(--bg-alt);
+}
+
+.inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+}
